@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16247504289",
+    "project_id": "iw-1-authentication",
+    "storage_bucket": "iw-1-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16247504289:android:605eddc2f14e176a38dfe0",
+        "android_client_info": {
+          "package_name": "com.example.roomdatabaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16247504289-5e6la705qqinbjn70llps1o57ump6lr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomdatabaseproject",
+            "certificate_hash": "243282d35a62b62a591f272bf590678b37426323"
+          }
+        },
+        {
+          "client_id": "16247504289-uo379rhp4m2qm65c19u8bmepgofljjth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQIM-LtHZ0-tUByCqd4jWc6wMalb6ZWO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16247504289-uo379rhp4m2qm65c19u8bmepgofljjth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
